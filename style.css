@@ -1,0 +1,14 @@
+h1 {
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #87A878;
+}
+li {
+	display: inline;
+}
