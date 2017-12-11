@@ -21,4 +21,12 @@ ul {
 
 p {
 	text-align: center;
+	color: #753742;
+}
+
+h3 {
+	text-align: center;
+	position: fixed;
+    bottom: 0px; 
+    width: 100%;
 }
