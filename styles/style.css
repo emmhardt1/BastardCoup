@@ -19,14 +19,11 @@ ul {
 	border-color: #A9A9A9;
 }
 
+h3{
+	text-align: center;
+}
+
 p {
 	text-align: center;
 	color: #753742;
-}
-
-h3 {
-	text-align: center;
-	position: fixed;
-    bottom: 0px; 
-    width: 100%;
 }
